@@ -37,7 +37,7 @@ Help marketing teams identify conversion bottlenecks and optimize customer journ
 
 ## Dashboard Preview
 The dashboard enables marketing teams to monitor funnel performance, conversion rates, revenue, traffic sources, device performance, and user behavior across the customer journey.
-![E-commerce Funnel Dashboard](E-commerce Conversion Funnel Dashboard.png)
+![E-commerce Funnel Dashboard](E-commerce%20Conversion%20Funnel%20Dashboard.png)
 
 An interactive version of the dashboard is available on Tableau Public:
 https://public.tableau.com/app/profile/olena.grynets/viz/FinalProjectE-commerceConversionFunnelDashboard/FunnelDashboard
