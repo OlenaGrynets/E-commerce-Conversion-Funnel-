@@ -45,4 +45,4 @@ https://public.tableau.com/app/profile/olena.grynets/viz/FinalProjectE-commerceC
 ## Files
 
 - ecommerce_funnel.sql
-- dashboard.png
+- E-commerce Conversion Funnel Dashboard.png
